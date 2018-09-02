@@ -69,6 +69,7 @@ var p = new Promise(function (resolve, reject) {
 //     return data;
 // },function () {
 //     //第二个参数是promise执行的失败函数
+
 // }).then(function () {
 //     bannerFn();
 // },function () {
