@@ -1,5 +1,5 @@
 var $oul = $('.ulBox'),
-    $listBox = $('.litBox');
+    $listBox = $('.listBox');
 /*
 * 实现轮播图
 * */
